@@ -1,6 +1,5 @@
-baseURL = "https://aktips.pages.dev"
+baseURL = "aktips.pages.dev"
 title = "AKTIPS.COM"
-subtitle = "Informasi Seputar Tips"
 theme = "zzo"
 
 summaryLength = 70
