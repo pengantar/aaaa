@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "aktips.pages.dev"
 title = "AKTIPS.COM"
 subtitle = "Informasi Seputar Tips"
 theme = "zzo"
