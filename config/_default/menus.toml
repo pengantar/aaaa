@@ -35,10 +35,4 @@
   name = "Perkantoran"
   url = "perkantoran"
 
-[[main]]
-  parent = "Topik"
-  name = "Tips"
-  url = "/"
-
-
 
